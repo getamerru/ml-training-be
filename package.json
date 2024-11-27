@@ -15,5 +15,7 @@
   "dependencies": {
     "@hapi/hapi": "^21.3.12",
     "@tensorflow/tfjs-node": "^4.22.0"
+      "@google-cloud/firestore": "^6.0.0",
+    "dotenv": "^10.0.0"
   }
 }
